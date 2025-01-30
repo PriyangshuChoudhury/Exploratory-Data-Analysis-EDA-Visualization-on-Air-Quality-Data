@@ -1,0 +1,6 @@
+📦 Air-Quality-EDA  
+┣ 📂 data/             --> Contains dataset files  
+┣ 📂 notebooks/        --> Jupyter Notebook for EDA  
+┣ 📜 README.md        --> Project documentation  
+┣ 📜 requirements.txt  --> List of Python dependencies  
+┗ 📜 air_quality_eda.ipynb  --> Main analysis notebook  
